@@ -1,0 +1,16 @@
+cliente/.classpath
+cliente/.project
+cliente/gradlew
+cliente/gradlew.bat
+cliente/settings.gradle
+cliente/.settings/org.eclipse.buildship.core.prefs
+*.class
+*.jar
+cliente/gradle/wrapper/gradle-wrapper.properties
+*.classpath
+*.project
+servidor/gradlew
+servidor/gradlew.bat
+servidor/settings.gradle
+*.prefs
+servidor/gradle/wrapper/gradle-wrapper.properties
